@@ -1,3 +1,3 @@
 import React from 'react';
-
-export default ({ name }) => <h1>Hello {name}!</h1>;
+//option bag
+export default ({ name, age }) => <h1>Hello {name} {age}!</h1>;
